@@ -1,6 +1,6 @@
 #asset_analysis - Don't track the data folder
 # - while this is still POC, storing backup asset file in C:\Users\jason_secrest\OneDrive - bioMerieux\Temp\jordans_asset_dataset_2023_03_06
-data/
+data/*.csv
 
 
 # Byte-compiled / optimized / DLL files
